@@ -11,6 +11,7 @@ let types;
 let strictBounds;
 var autocomplete;
 
+
 function initMap() {
     // Initialize variables
     bounds = new google.maps.LatLngBounds();
